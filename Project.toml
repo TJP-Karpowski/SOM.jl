@@ -16,14 +16,14 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
 julia = "1"
-DataFrames = "0.19"
-Distances = "0.8"
-Distributions = "0.21"
-ProgressMeter ="1.2"
-PyCall ="1.91.2"
-PyPlot = "2.8.2"
-RDatasets = "0.6"
-StatsBase = "0.32"
+#DataFrames = "0.19"
+#Distances = "0.8"
+#Distributions = "0.21"
+#ProgressMeter ="1.2"
+#PyCall ="1.91.2"
+#PyPlot = "2.8.2"
+#RDatasets = "0.6"
+#StatsBase = "0.32"
 
 
 [extras]
